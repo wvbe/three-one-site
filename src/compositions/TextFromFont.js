@@ -11,7 +11,7 @@ export default function Text({
 	rotation,
 	onClick,
 	material = materials.wireframe,
-	font = '/fonts/helvetiker_regular.typeface.json',
+	font = 'fonts/helvetiker_regular.typeface.json',
 	text,
 	size = 3,
 	height = 0.2,
